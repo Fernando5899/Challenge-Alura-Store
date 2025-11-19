@@ -1,5 +1,7 @@
 # **Challenge Alura Store**
 
+---
+
 ## **1. Análisis de facturación**
 
 ### **Tienda 1**
@@ -18,7 +20,7 @@
 
 * El total de Ingresos de la Tienda 4 es: $1,038,375,700.0
 
-#### **Después de este análisis la tienda con más ventas es la tienda 1**
+---
 
 ## **Ventas por categoría**
 
