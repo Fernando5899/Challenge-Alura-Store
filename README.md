@@ -29,3 +29,14 @@
 | **Tienda 2** | 4.037 |
 | **Tienda 3** | 4.048 |
 | **Tienda 4** | 3.996 |
+
+---
+
+## 📦 4. Productos más y menos vendidos
+
+| Tienda | Productos Más Vendidos | Productos Menos Vendidos |
+| :--- | :--- | :--- |
+| **Tienda 1** | Microondas, TV LED UHD 4K, Armario (60) | Auriculares con micrófono, Celular ABXY (33) |
+| **Tienda 2** | Iniciando en programación (65) | Juego de mesa (32) |
+| **Tienda 3** | Kit de bancas (57) | Bloques de construcción (35) |
+| **Tienda 4** | Cama box (62) | Guitarra eléctrica (33) |
