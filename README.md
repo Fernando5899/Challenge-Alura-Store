@@ -40,3 +40,14 @@
 | **Tienda 2** | Iniciando en programación (65) | Juego de mesa (32) |
 | **Tienda 3** | Kit de bancas (57) | Bloques de construcción (35) |
 | **Tienda 4** | Cama box (62) | Guitarra eléctrica (33) |
+
+---
+
+## 🚚 5. Envío Promedio por Tienda
+
+| Tienda | Envío Promedio |
+| :--- | :---: |
+| **Tienda 1** | $26,018.61 |
+| **Tienda 2** | $25,216.24 |
+| **Tienda 3** | $24,805.68 |
+| **Tienda 4** | $23,459.46 |
