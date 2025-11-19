@@ -22,6 +22,27 @@
 
 ---
 
-## **Ventas por categoría**
+## **2. Ventas por categoría**
 
-* Después de realizar el análisis en las cuatro tiendas se verificó que la categoría mas popular de cada tienda son Muebles.
+- Después de realizar el análisis en las cuatro tiendas se verificó que la categoría más popular de cada tienda son:
+- Muebles.
+
+---
+
+## **Calificación promedio de las tiendas**
+
+### **Tienda 1**
+
+* La calificación promedio de la Tienda 1 es: 3.977
+
+### **Tienda 2**
+
+* La calificación promedio de la tienda 2 es: 4.037
+
+### **Tienda 3**
+
+* La calificación promedio de la Tienda 3 es: 4.048
+
+### **Tienda 4**
+
+* La calificación promedio de la Tienda 4 es: 3.996
